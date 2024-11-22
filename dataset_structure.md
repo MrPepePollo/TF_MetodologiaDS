@@ -49,12 +49,4 @@
 39. **HighRiskLastYear**: Riesgo alto el último año (Categoría).
 40. **CovidPos**: Diagnóstico de COVID positivo (Categoría).
 
-## Ejemplo de Datos
-| State   | Sex    | GeneralHealth | PhysicalHealthDays | MentalHealthDays | ... | CovidPos |
-|---------|--------|---------------|--------------------|------------------|-----|----------|
-| Alabama | Female | Very good     | 0.0                | 0.0              | ... | No       |
-| Alabama | Female | Excellent     | 0.0                | 0.0              | ... | No       |
-| Alabama | Female | Very good     | 2.0                | 3.0              | ... | Yes      |
 
-## Notas
-Este dataset parece adecuado para tareas de análisis de salud poblacional y clasificación predictiva, con variables relacionadas con el bienestar físico y mental, estilo de vida y antecedentes médicos.
